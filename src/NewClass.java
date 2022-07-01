@@ -1,6 +1,6 @@
 public class NewClass {
     public static void main(String[] args) {
 
-        System.out.println("Hey from main clas");
+        System.out.println("Hey from main class");
     }
 }
